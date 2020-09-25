@@ -1,2 +1,2 @@
-#from ejemplo1 import *
-from ejemplo2 import *
+from leccion1.leccion import *
+from leccion2.leccion import *
